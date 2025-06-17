@@ -106,8 +106,10 @@ dados: [susep](https://drive.google.com/drive/folders/16x1l02dqg4EII7Q4bDgZe34wE
 
 *Projeto desenvolvido por José Alisson Alves Ursulino | Premiado pelo Institudo Brasileiro de Atuária (IBA)*
 
-contato: 
 
-[linkedin](www.linkedin.com/in/alisson-ursulino-a746471a4), [email](alisson.atuario@gmail.com)
+
+linkedin: www.linkedin.com/in/alisson-ursulino-a746471a4
+
+contato: alisson.atuario@gmail.com
 
 
