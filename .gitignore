@@ -1,0 +1,176 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# DotEnv configuration
+.env
+
+# Database
+*.db
+*.rdb
+
+# Pycharm
+.idea
+
+# VS Code
+.vscode/
+
+# Spyder
+.spyproject/
+
+# Jupyter NB Checkpoints
+.ipynb_checkpoints/
+
+# exclude data from source control by default
+/data/
+
+# Mac OS-specific storage files
+.DS_Store
+
+# vim
+*.swp
+*.swo
+
+# Mypy cache
+.mypy_cache/
+
+# Ignorar pastas de backup
+**/backups/
+**/backup/
+*.csv
+*.tsv
+*.json
+*.xml
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.sql
+*.db
+*.sqlite
+*.rdb
+*.pkl
+*.pickle
+*.sav
+*.mat
+*.arff
+
+# Modelos treinados e arquivos binários
+*.h5
+*.hdf5
+*.joblib
+*.pkl
+*.ckpt
+*.tflite
+*.onnx
+*.pb
+*.pt
+*.pth
+*.model
+*.bin
+
+# Logs e arquivos temporários
+*.log
+*.out
+*.err
+*.trace
+*.profile
+*.tmp
+*.temp
+*.cache
+__pycache__/
+*.pyc
+*.pyo
+*.pid
+
+# Jupyter Notebook e experimentos de ML
+*.nbconvert/
+*.nb.html
+*.nb.pdf
+mlruns/
+experiments/
+tensorboard/
+wandb/
+
+# Arquivos de mídia
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.svg
+*.mp4
+*.avi
+*.mov
+*.mp3
+*.wav
+
+# Arquivos comprimidos e backups
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+*.bak
+
+# Arquivos de checkpoints e versões intermediárias de modelos
+checkpoint/
+events.out.tfevents.*
+.dvc/
+.dvc/cache/
+.dvc/tmp/
+*.safetensors
