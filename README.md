@@ -2,17 +2,17 @@
 
 ![premio-2024](https://atuarios.org.br/wp-content/uploads/2024/11/premio-2024.jpg)
 
-Projeto premiado pelo **Instituto Brasileiro de Atuária** desenvolvido por José Alisson Alves Ursulino, apresentando uma abordagem inovadora para precificação de seguros usando LSTM e Conformal Prediction.
+Projeto premiado pelo **Instituto Brasileiro de Atuária** desenvolvido por José Alisson Alves Ursulino e Francisco Juanito Costa da Silva, apresentando uma abordagem inovadora para precificação de seguros usando LSTM e Conformal Prediction.
 
 ## 🔍 Resumo do Trabalho
 
 📜 **Abstract**  
 
-> "Este trabalho apresenta uma abordagem inovadora para a previsão de sinistralidades utilizando a técnica de \textit{Conformal Prediction} (CP). O CP é uma técnica \textit{não-paramétrica} e independente do modelo preditivo, permitindo sua aplicação em uma ampla gama de modelos, como os \textit{GLM} amplamente utilizados pelos atuários. 
+> "Este trabalho apresenta uma abordagem inovadora para a previsão de sinistralidades utilizando a técnica de **Conformal Prediction (CP)**. O CP é uma técnica **não-paramétrica** e **independente do modelo preditivo**, permitindo sua aplicação em uma ampla gama de modelos, como os *GLM* amplamente utilizados pelos atuários. 
 > 
-> Neste estudo, optamos por aplicar o CP sobre redes neurais, utilizando especificamente uma Rede Neural Recorrente do tipo \textit{Long Short-Term Memory (LSTM) Probabilística} para capturar a dinâmica temporal dos sinistros agregados diariamente. Ao contrário de métodos tradicionais, que assumem distribuições predefinidas para os dados, o CP ajusta-se ao comportamento dos dados, fornecendo intervalos de confiança robustos e adaptáveis às previsões de sinistros.  
+> Neste estudo, optamos por aplicar o CP sobre redes neurais, utilizando especificamente uma Rede Neural Recorrente do tipo **Long Short-Term Memory (LSTM) Probabilística** para capturar a dinâmica temporal dos sinistros agregados diariamente. Ao contrário de métodos tradicionais, que assumem distribuições predefinidas para os dados, o CP ajusta-se ao comportamento dos dados, fornecendo intervalos de confiança robustos e adaptáveis às previsões de sinistros.  
 > 
-> Nos resultados empíricos, demonstramos que a aplicação do CP no conjunto de teste proporcionou maior cobertura e proteção, ajustando os prêmios puros de maneira proativa com base na incerteza dos sinistros. Com isso, foi proposto um parâmetro de sensibilidade flexível \(\alpha\), que permite calibrar o prêmio conforme diferentes níveis de aversão ao risco. 
+> Nos resultados empíricos, demonstramos que a aplicação do CP no conjunto de teste proporcionou maior cobertura e proteção, ajustando os prêmios puros de maneira proativa com base na incerteza dos sinistros. Com isso, foi proposto um parâmetro de sensibilidade flexível $\alpha$, que permite calibrar o prêmio conforme diferentes níveis de aversão ao risco. 
 > 
 > A principal vantagem deste método é sua simplicidade e facilidade de implementação, uma vez que ele pode ser incorporado diretamente aos modelos preexistentes de seguradoras, sem a necessidade de reformulações estruturais. 
 > 
@@ -100,10 +100,14 @@ IBA_PureRiskConformal/
 
 Trabalho completo disponível na [Revista Brasileira de Atuária]([Lançamento da 8ª Edição da Revista Brasileira de Atuária – Instituto Brasileiro de Atuária (IBA)](https://atuarios.org.br/lancamento-da-8a-edicao-da-revista-brasileira-de-atuaria/))
 
-dados: [susep](https://drive.google.com/drive/folders/1RLBZ10wpV8PORkiWaM-hx3rJQtjSQ2Ej?usp=sharing)
+dados: [susep](https://drive.google.com/drive/folders/16x1l02dqg4EII7Q4bDgZe34wEWB99XGv?usp=sharing)
 
 ---
 
 *Projeto desenvolvido por José Alisson Alves Ursulino | Premiado pelo Institudo Brasileiro de Atuária (IBA)*
+
+contato: 
+
+[linkedin](www.linkedin.com/in/alisson-ursulino-a746471a4), [email](alisson.atuario@gmail.com)
 
 
